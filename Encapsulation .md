@@ -9,7 +9,7 @@ To implement **Encapsulation** in Python by defining a class `Rectangle` with **
 ## 🧠 ALGORITHM
 
 1. **Define the Class**:
-   - Create a class `Rectangle` with two private attributes: `__length` and `__breadth`.
+   - Create a class `Rectangle` with two private attributes: `__length` and `__breadth`
 
 2. **Initialize Variables**:
    - Use the `__init__()` constructor to set initial values for `__length` and `__breadth`.
