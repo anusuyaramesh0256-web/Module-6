@@ -2,7 +2,7 @@
 
 ## 🎯 AIM
 
-To write a Python program that demonstrates **operator overloading** by overloading the **less than (`<`)** operator using a custom class.
+To write a Python program that demonstrates **operator overloading** by overloading the **less than (`<`)** operator using a custom class
 
 ---
 
